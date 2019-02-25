@@ -1,10 +1,10 @@
 # Site settings
 title: 米房
 SEOTitle: 米房 | 美国房地产投资专业指南
-header-img: img/home-bg.jpg
+header-img: img/home-bg-ocean.jpg
 email: wlpm2010@gmail.com
 description: "美国房地产投资经验(自住房、投资房、旧房翻新、全新楼盘开发、AirBnB)"
-keyword: "美国房地产, 美国投资, 美国房产, 美国投资房, 美国地产, 美国地主, 美国房东, 房屋翻新, 资产配置, 跨境投资, 美国资产, 美国移民, 美国生活, 美国赚钱"
+keyword: "美国房地产, 美国投资, 美国房产, 美国投资房, 美国地产, 美国地主, 美国房东, 房屋翻新, 资产配置, 跨境投资, 美国资产, 美国移民, 美国生活, 美国赚钱, 自住房、投资房、旧房翻新、全新楼盘开发、AirBnB, BRRR, Opportunity Zone"
 url: "https://mi-fang.net"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,7 +78,7 @@ ga_domain: mi-fang.net
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你好，我是MJ，我将在这里分享过去10多年在美国的房地产投资经验 - 自住房、投资房、旧房翻新、全新楼盘开发、AirBnB "
+sidebar-about-description: "你好，我是MJ，我将在这里分享过去10多年在美国的房地产投资经验 - 自住房、投资房、旧房翻新、全新楼盘开发、AirBnB, BRRR, Opportunity Zone "
 sidebar-avatar: /img/avatar-mj.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,9 +101,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+#friends: [
     #{
     #     title: "Su",
     #     href: "http://su.gallery/"
     # }
-]
+#]
