@@ -20,6 +20,8 @@
 
 在互联网上，关于美国房地产投资的信息很多，但是中文的信息却非常少。我做这个网站的意义就是把我过去十多年的经验陆续写出来分享给大家。
 
+欢迎订阅本人YouTube频道 - [MJ说房产](https://www.youtube.com/channel/UCgat5JGcprM26nA0e1qqqCA).
+
 因为本人码字的速度比较慢，您感兴趣的话题有可能还没有发表，如果有任何关于美国房地产投资的问题，可以加我的微信交流。
 
 ![Image of Wechat](/img/wechat.jpeg)
